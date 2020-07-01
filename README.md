@@ -15,7 +15,7 @@ Ok ! Now start with the software that you must have
 
 #4 In visual studio code in the folder "MyFirstWebSite" click on "new file" button and name the file "index.html" it's very important
 
-#5 now in the "index.html" we type the Doctype :
+#5 now in the "index.html" we write the Doctype :
 
 ```html
 <!doctype html>
