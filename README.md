@@ -57,9 +57,10 @@ for a paragraph the <p> balise
 
 IMPORTANT !
  
-If you open a balise you mustcole it ex : <p>blabla</p> !
-
-
+If you open a balise you must close it ex : 
+```html
+<p>blabla</p>
+```
 
 Course 2 finished !
 
