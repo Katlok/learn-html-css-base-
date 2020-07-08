@@ -64,6 +64,76 @@ If you open a balise you must close it ex :
 
 Course 2 finished !
 
+Course 3 !
+
+Part 1 :
+
+In html it's very important to place our code in section for structure ou code for exemple :
+
+```html
+<section>
+  <h1>My first website</h1>
+  <h2>there are my first website !</h2>
+  
+</section>
+```
+
+we can add image :
+
+```html
+<section>
+  <h1>My first website</h1>
+  <h2>there are my first website !</h2>
+  <img src="image.png" alt="image !"> 
+</section>
+```
+ 
+Part 2 :
+
+button and link ! :
+
+In html web can add button in our website :
+
+```html
+```html
+<section>
+  <h1>My first website</h1>
+  <h2>there are my first website !</h2>
+  
+  <button>my first button !</button>
+  
+</section>
+```
+
+in the button we can add a link like that :
+
+```html
+<a href="https://www.youtube.com">
+  <button>Youtube !</button>
+</a>
+```
+
+or link of the other pages of our website :
+
+```html
+<a href="page2.html">
+  <button>page 2</button>
+</a>
+```
+
+we can place a simple link like this :
+
+```html
+<a href="https://wwww.youtube.com">youtube !</a>
+```
+
+or this : 
+
+```html
+<a href="page2.html">page 2</a>
+```
+
+The part 3 end !
 
 
 
