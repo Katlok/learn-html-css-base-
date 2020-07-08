@@ -47,7 +47,7 @@ For title we have this balise :
 <h1>Title !</h1>
 ```
 
-we have another writing balise for exemple "<h1>" is one balise among others we have h2,h3,h4,h5,h6.....
+we have another writing balise for exemple "h1" is one balise among others we have h2,h3,h4,h5,h6.....
 
 for a paragraph the <p> balise
   
