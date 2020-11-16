@@ -46,7 +46,10 @@ For title we have this balise :
 ```html
 <h1>Title !</h1>
 ```
-
+If you open a balise you must close it ex : 
+```html
+<h1>text</h1>
+```
 we have another writing balise for exemple "h1" is one balise among others we have h2,h3,h4,h5,h6.....
 
 for a paragraph the <p> balise
@@ -54,17 +57,22 @@ for a paragraph the <p> balise
  ```html
 <p>Saepissime igitur mihi de amicitia cogitanti maxime illud considerandum videri solet, utrum propter imbecillitatem atque inopiam desiderata sit amicitia, ut dandis recipiendisque meritis quod quisque minus per se ipse posset, id acciperet ab alio vicissimque redderet, an esset hoc quidem proprium amicitiae, sed antiquior et pulchrior et magis a natura ipsa profecta alia causa. Amor enim, ex quo amicitia nominata est, princeps est ad benevolentiam coniungendam. Nam utilitates quidem etiam ab iis percipiuntur saepe qui simulatione amicitiae coluntur et observantur temporis causa, in amicitia autem nihil fictum est, nihil simulatum et, quidquid est, id est verum et voluntarium.</p>
 ```
-
-IMPORTANT !
- 
-If you open a balise you must close it ex : 
+If you want add line break its really simple we use this balise 
 ```html
-<p>blabla</p>
+<br>
+```
+in a paragraph like this :
+
+```html
+<p>Saepissime igitur mihi de amicitia cogitanti maxime illud considerandum videri solet, utrum propter imbecillitatem atque inopiam desiderata sit amicitia, ut dandis<br> recipiendisque meritis quod quisque minus per se ipse posset, id acciperet ab alio vicissimque redderet, an esset hoc quidem proprium amicitiae, sed antiquior et pulchrior et<br> magis a natura ipsa profecta alia causa. Amor enim, ex quo amicitia nominata est, princeps est ad benevolentiam coniungendam. Nam utilitates quidem etiam ab iis<br> percipiuntur saepe qui simulatione amicitiae coluntur et observantur temporis causa, in amicitia autem nihil fictum est, nihil simulatum et, quidquid est, id est verum et<br> voluntarium.</p>
 ```
 
-Course 2 finished !
+ 
 
-Course 3 !
+
+Course 2 finished.
+
+Course 3.
 
 Part 1 :
 
@@ -133,7 +141,7 @@ or this :
 <a href="page2.html">page 2</a>
 ```
 
-The part 3 end !
+The part 3 end.
 
 
 
